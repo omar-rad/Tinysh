@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619370013 source:c:\users\obmr\desktop\tinysh\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+
